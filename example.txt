@@ -1,4 +1,4 @@
-Once upon a time there was a good programmer who used git. He committed
+qwerqwerOnce upon a time there was a good programmer who used git. He committed
 regularly and wrote useful messages.
 
 One day, he wrote buggy code! But thankfully he was able to reset to an
